@@ -1,0 +1,24 @@
+{
+  "name": "mp_begining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilrajshetty/mp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilrajshetty/mp/issues"
+  },
+  "homepage": "https://github.com/nikhilrajshetty/mp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

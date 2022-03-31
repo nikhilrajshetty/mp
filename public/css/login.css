@@ -33,7 +33,7 @@ body {
   color: #FFFFFF;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(\mp_login_bg.jpg);
+  background-image: url(/images/mp_login_bg.jpg);
   overflow: hidden;
 }
 .box-form .left .overlay {
